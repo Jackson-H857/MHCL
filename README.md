@@ -1,8 +1,5 @@
 # Multi-Scale Hierarchical Contrastive Learning with Cross-Batch for Image-Text Retrieval
 
-![Static Badge](https://img.shields.io/badge/Pytorch-EE4C2C)
-![License: MIT](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)
-
 The implementation of our paper:  
 **"Multi-Scale Hierarchical Contrastive Learning with Cross-Batch for Image-Text Retrieval"** (Conference/Journal, Year).
 
